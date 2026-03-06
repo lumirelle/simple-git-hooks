@@ -4,6 +4,16 @@
 
 A tool that lets you easily manage git hooks
 
+A fork of [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) with NPM github url syntax install support:
+
+```json
+{
+  "devDependencies": {
+    "simple-git-hooks": "git+https://github.com/lumirelle/simple-git-hooks.git#aac0b7f"
+  }
+}
+```
+
 > The package was recently renamed from `simple-pre-commit`.
 
 > See **Releases** for the `simple-pre-commit` documentation and changelog
