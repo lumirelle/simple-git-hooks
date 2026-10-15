@@ -4,6 +4,9 @@
 
 A tool that lets you easily manage git hooks
 
+> [!Note]
+> Now I have switched to [hk](https://hk.jdx.dev/), as it's technology stack agnostic.
+
 A fork of [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) with NPM github url syntax install support:
 
 ```json
